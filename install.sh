@@ -13,4 +13,4 @@ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-oc
 npm install
 npm audit fix
 
-echo "[*] SUKSES BRO SILAHKAN KETIK \"npm start\" JIKA ADA YANG ERROR SILAHKAN INSTALL MANUAL"
+echo "[*] YA ESTA HIJO DE PUTA, AHORA ACTIVALO CON \"npm start\" Y DISFRUTALO"
