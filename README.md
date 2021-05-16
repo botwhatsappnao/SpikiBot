@@ -1,5 +1,5 @@
 
-### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+### COMO INSTALAR EN TERMUX  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
 > PRIMER PASO ES TENER TERMUX PAJERO DESPUES ABRIR TERMUX Y PONER TODO ESTO
 > termux-setup-storage
